@@ -1,4 +1,4 @@
-#Heading 1:
+# Heading 1:
 
 This is a readme file for the example of github.
 
